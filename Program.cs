@@ -34,7 +34,7 @@ namespace CadastroDeSeries
             repositorioSeries.Adicionar(serieTeste2);
             repositorioSeries.Adicionar(serieTeste3);
             repositorioSeries.Adicionar(serieTeste4);
-            //
+            //////////////////////////////////////
         mainLoop:
             Console.Clear();
             menu();
