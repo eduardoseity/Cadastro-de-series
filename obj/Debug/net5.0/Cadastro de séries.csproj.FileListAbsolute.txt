@@ -1,0 +1,15 @@
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/bin/Debug/net5.0/Cadastro de séries.deps.json
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/bin/Debug/net5.0/Cadastro de séries.runtimeconfig.json
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/bin/Debug/net5.0/Cadastro de séries.runtimeconfig.dev.json
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/bin/Debug/net5.0/Cadastro de séries.dll
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/bin/Debug/net5.0/ref/Cadastro de séries.dll
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/bin/Debug/net5.0/Cadastro de séries.pdb
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/Cadastro de séries.csprojAssemblyReference.cache
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/Cadastro de séries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/Cadastro de séries.AssemblyInfoInputs.cache
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/Cadastro de séries.AssemblyInfo.cs
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/Cadastro de séries.csproj.CoreCompileInputs.cache
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/Cadastro de séries.dll
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/ref/Cadastro de séries.dll
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/Cadastro de séries.pdb
+/Users/eduardoseity/OneDrive/Bootcamps/Digital Innovation One/LocalizaLabs/Programas/Cadastro de séries/obj/Debug/net5.0/Cadastro de séries.genruntimeconfig.cache
